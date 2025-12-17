@@ -1,0 +1,16 @@
+:root {
+  /* colors */
+  --primary-color: #17254e;
+  --secondary-color: #704fe6;
+  --corona: #ffd25d;
+
+  /* units */
+  --default-padding-left: 18.22rem;
+  --default-padding-right: 18.22rem;
+
+  --default-width: 118.938rem;
+
+  --font-epilogue: "Epilogue", sans-serif;
+
+  --font-sora: "Sora", sans-serif;
+}
