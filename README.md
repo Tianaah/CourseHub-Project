@@ -10,6 +10,8 @@ A package.json file is like an instructional manual of node.js project, it tells
 
 Vite is a modern tool that helps build and run development server for websites or web apps. It makes modern development lightning fast and simple.
 
+## React and JavaScript DOM Summary
+
 # react
 
 What is React?
@@ -66,9 +68,7 @@ The DOM (Document Object Model) represents a webpage as a structure that
 JavaScript can work with.
 JavaScript can use the DOM to: - Select elements on a webpage - Change text and
 styles - Respond to user interactions
-Example:
-
-# document.getElementById("myDiv");
+Example: document.getElementById("myDiv");
 
 This code selects an element with the ID myDiv.
 
