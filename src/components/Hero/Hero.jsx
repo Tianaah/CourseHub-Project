@@ -9,13 +9,19 @@ const Hero = () => {
   return (
     <section className="hero">
       <div className="hero_content">
-        <h4>Welcome Edunity online courses</h4>
-        <h1>Achieving Your Dreams Through Education</h1>
-        <p>
-          We are experienced in educationl platform and skilled strategies for
-          the success of our online learning.
-        </p>
-        <button className="btn-primary">Find Courses</button>
+        <div className="hero_title">
+          <h4>Welcome Edunity online courses</h4>
+        </div>
+        <div className="hero_heading">
+          <h1>Achieving Your Dreams Through Education</h1>
+        </div>
+        <div className="hero_description">
+          <p>
+            We are experienced in educationl platform and skilled strategies for
+            the success of our online learning.
+          </p>
+          <button className="btn-primary">Find Courses</button>
+        </div>
       </div>
 
       <div className="hero_images">
